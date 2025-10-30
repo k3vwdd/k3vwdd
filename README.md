@@ -38,11 +38,6 @@
 
 ### 🚀 Featured Projects
 
-- [![fleXRP](https://img.shields.io/badge/fleXRP-Payment%20Gateway-blue?style=flat-square)](https://github.com/fleXRPL/fleXRP) - Modern payment gateway for XRP integration
-- [![RunOn](https://img.shields.io/badge/RunOn-iOS%20App-orange?style=flat-square)](https://github.com/fleXRPL/RunOn) - Running event discovery mobile app (iOS/Swift)
-- [![cursor-rules-dynamic](https://img.shields.io/badge/cursor--rules-VSCode%20Extension-purple?style=flat-square)](https://github.com/fleXRPL/cursor-rules-dynamic) - VSCode extension for AI development
-- [![flexrpl-discord-bot](https://img.shields.io/badge/Discord%20Bot-Integration-green?style=flat-square)](https://github.com/fleXRPL/flexrpl-discord-bot) - GitHub-Discord integration bot
-- [![githubaithlib](https://img.shields.io/badge/githubauthlib-Authentication-red?style=flat-square)](https://github.com/fleXRPL/githubaithlib) - Cross-platform GitHub token management
 - [![datadog-dashboard-deployer](https://img.shields.io/badge/datadog--dashboard--deployer-Automation-brown?style=flat-square)](https://github.com/fleXRPL/datadog-dashboard-deployer) - Automated Datadog dashboard deployment tool
 - [![datadog-monitor-deployer](https://img.shields.io/badge/datadog--monitor--deployer-Automation-olive?style=flat-square)](https://github.com/fleXRPL/datadog-monitor-deployer) - Automated Datadog monitor deployment tool
 
@@ -50,10 +45,7 @@
 
 ### 💻 Primary Tech Stack &nbsp;
 
-- **fleXRP**: Python, FastAPI, Docker
-- **RunOn**: Swift, iOS, Python (Lambda)
-- **cursor-rules-dynamic**: TypeScript, VSCode API
-- **flexrpl-discord-bot**: Python, Discord.py
+- **Application_Name**: Python, FastAPI, Docker
 
 ---
 
