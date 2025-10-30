@@ -1,13 +1,82 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">Systems Engineer specializing in infrastructure automation and continuous delivery pipelines for high-traffic production environments. Track record of eliminating manual deployment processes, automating server provisioning across hybrid cloud infrastructure, and building tools that enable engineering teams to ship faster with fewer incidents</h3>
+<h1 align="center">Hi, I'm <a href="https://github.com/garotm">Kevin Diaz</a> 👋</h1>
+<p align="center">DevOps Engineer specializing in infrastructure automation and continuous delivery pipelines for high-traffic production environments. Track record of eliminating manual deployment processes, automating server provisioning across hybrid cloud infrastructure, and building tools that enable engineering teams to ship faster with fewer incidents.</p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h2 align="center">
+  <a href="https://github.com/garotm/garotm/wiki">Professional Resume</a>
+</h2>
+
+### 🛠 Skills &nbsp;
+
+- **Languages:** &nbsp;
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+- **Frameworks & Tools:** &nbsp;
+- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
+- **Metrics & Analytics:** &nbsp;
+  ![DataDog](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) 
+
+- **Cloud:** &nbsp;
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+- **Quality & CI/CD:** &nbsp;
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+- [![fleXRP](https://img.shields.io/badge/fleXRP-Payment%20Gateway-blue?style=flat-square)](https://github.com/fleXRPL/fleXRP) - Modern payment gateway for XRP integration
+- [![RunOn](https://img.shields.io/badge/RunOn-iOS%20App-orange?style=flat-square)](https://github.com/fleXRPL/RunOn) - Running event discovery mobile app (iOS/Swift)
+- [![cursor-rules-dynamic](https://img.shields.io/badge/cursor--rules-VSCode%20Extension-purple?style=flat-square)](https://github.com/fleXRPL/cursor-rules-dynamic) - VSCode extension for AI development
+- [![flexrpl-discord-bot](https://img.shields.io/badge/Discord%20Bot-Integration-green?style=flat-square)](https://github.com/fleXRPL/flexrpl-discord-bot) - GitHub-Discord integration bot
+- [![githubaithlib](https://img.shields.io/badge/githubauthlib-Authentication-red?style=flat-square)](https://github.com/fleXRPL/githubaithlib) - Cross-platform GitHub token management
+- [![datadog-dashboard-deployer](https://img.shields.io/badge/datadog--dashboard--deployer-Automation-brown?style=flat-square)](https://github.com/fleXRPL/datadog-dashboard-deployer) - Automated Datadog dashboard deployment tool
+- [![datadog-monitor-deployer](https://img.shields.io/badge/datadog--monitor--deployer-Automation-olive?style=flat-square)](https://github.com/fleXRPL/datadog-monitor-deployer) - Automated Datadog monitor deployment tool
+
+---
+
+### 💻 Primary Tech Stack &nbsp;
+
+- **fleXRP**: Python, FastAPI, Docker
+- **RunOn**: Swift, iOS, Python (Lambda)
+- **cursor-rules-dynamic**: TypeScript, VSCode API
+- **flexrpl-discord-bot**: Python, Discord.py
+
+---
+
+### [![alt text](https://pypi.org/static/images/logo-small.8998e9d1.svg)](https://pypi.org/)  DevOps Projects
+
+- [githubauthlib](https://pypi.org/project/githubauthlib/)
+- [datadog-dashboard-deployer](https://pypi.org/project/datadog-dashboard-deployer/)
+- [datadog-monitor-deployer](https://pypi.org/project/datadog-monitor-deployer/)
+- [datadog-healthcheck-deployer](https://pypi.org/project/datadog-healthcheck-deployer/)
+- [catchpoint-configurator](https://pypi.org/project/catchpoint-configurator)
+- [github-mcp](https://pypi.org/project/github-mcp) - coming soon!
+
+---
+
+### 📈 GitHub Analytics &nbsp;
 <p align="left">
-<a href="https://twitter.com/k3vwdd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="k3vwdd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kevin-diaz-6013a0328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin-diaz-6013a0328" height="30" width="40" /></a>
+  <!-- Your personal stats cards - these work fine -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=k3vwdd&show_icons=true&theme=dark&include_all_commits=true&custom_title=My%20GitHub%20Statistics&border_color=30363d&show_owner=true&line_height=24"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k3vwdd&show_icons=true&locale=en&layout=compact" alt="k3vwdd" /></p>
+### 📫 Connect & Collaborate &nbsp;
+
+[![LinkedIn](https://www.linkedin.com/in/kevin-diaz-6013a0328/)
+[![GitHub](https://github.com/k3vwdd)
