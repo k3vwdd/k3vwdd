@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/garotm">Kevin Diaz</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/k3vwdd">Kevin Diaz</a> 👋</h1>
 <p align="center">DevOps Engineer specializing in infrastructure automation and continuous delivery pipelines for high-traffic production environments. Track record of eliminating manual deployment processes, automating server provisioning across hybrid cloud infrastructure, and building tools that enable engineering teams to ship faster with fewer incidents.</p>
 
 ---
@@ -10,13 +10,13 @@
 ### 🛠 Skills &nbsp;
 
 - **Languages:** &nbsp;
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
   ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 - **Frameworks & Tools:** &nbsp;
-- ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+  ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
   ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689)
@@ -78,5 +78,5 @@
 
 ### 📫 Connect & Collaborate &nbsp;
 
-[![LinkedIn](https://www.linkedin.com/in/kevin-diaz-6013a0328/)
-[![GitHub](https://github.com/k3vwdd)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-diaz-6013a0328)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k3vwdd)
