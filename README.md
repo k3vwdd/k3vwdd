@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/k3vwdd">Kevin Diaz</a> 👋</h1>
-<p align="center">DevOps Engineer specializing in infrastructure automation and continuous delivery pipelines for high-traffic production environments. Track record of eliminating manual deployment processes, automating server provisioning across hybrid cloud infrastructure, and building tools that enable engineering teams to ship faster with fewer incidents.</p>
+<p align="center">Systems Engineer specializing in infrastructure automation and continuous delivery pipelines for high-traffic production environments. Track record of eliminating manual deployment processes, automating server provisioning across hybrid cloud infrastructure, and building tools that enable engineering teams to ship faster with fewer incidents.</p>
 
 ---
 
@@ -57,7 +57,7 @@
 
 ---
 
-### [![alt text](https://pypi.org/static/images/logo-small.8998e9d1.svg)](https://pypi.org/)  DevOps Projects
+### [![alt text](https://cdn.worldvectorlogo.com/logos/devops-2.svg)](https://aws.amazon.com/devops/what-is-devops/)  DevOps Projects
 
 - [githubauthlib](https://pypi.org/project/githubauthlib/)
 - [datadog-dashboard-deployer](https://pypi.org/project/datadog-dashboard-deployer/)
