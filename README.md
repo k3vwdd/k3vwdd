@@ -24,7 +24,9 @@
 
 - **Metrics & Analytics:** &nbsp;
   ![DataDog](https://img.shields.io/badge/DATADOG-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
-  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white) 
+  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)
+  ![Grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)
 
 - **Cloud:** &nbsp;
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
