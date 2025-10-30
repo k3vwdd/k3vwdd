@@ -57,7 +57,7 @@
 
 ---
 
-### [![alt text](https://cdn.worldvectorlogo.com/logos/devops-2.svg)](https://aws.amazon.com/devops/what-is-devops/)  DevOps Projects
+### [![alt text](https://cdn.iconscout.com/icon/premium/png-512-thumb/devops-icon-svg-download-png-12336801.png?f=webp&w=512)](https://aws.amazon.com/devops/what-is-devops/)  DevOps Projects
 
 - [githubauthlib](https://pypi.org/project/githubauthlib/)
 - [datadog-dashboard-deployer](https://pypi.org/project/datadog-dashboard-deployer/)
