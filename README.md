@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <a href="https://github.com/k3vwdd">Kevin Diaz</a> 👋</h1>
+<h1 align="center">Hi, I'm <a href="https://github.com/k3vwdd">Kevin Diaz</a></h1>
 <p align="center">Systems Engineer specializing in infrastructure automation and continuous delivery pipelines for high-traffic production environments. Track record of eliminating manual deployment processes, automating server provisioning across hybrid cloud infrastructure, and building tools that enable engineering teams to ship faster with fewer incidents.</p>
 
 ---
