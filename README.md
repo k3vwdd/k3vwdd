@@ -7,7 +7,7 @@
   <a href="https://github.com/garotm/garotm/wiki">Professional Resume</a>
 </h2>
 
-### 🛠 Skills &nbsp;
+### Skills &nbsp;
 
 - **Languages:** &nbsp;
   ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -38,14 +38,14 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - [![datadog-dashboard-deployer](https://img.shields.io/badge/datadog--dashboard--deployer-Automation-brown?style=flat-square)](https://github.com/fleXRPL/datadog-dashboard-deployer) - Automated Datadog dashboard deployment tool
 - [![datadog-monitor-deployer](https://img.shields.io/badge/datadog--monitor--deployer-Automation-olive?style=flat-square)](https://github.com/fleXRPL/datadog-monitor-deployer) - Automated Datadog monitor deployment tool
 
 ---
 
-### 💻 Primary Tech Stack &nbsp;
+### Primary Tech Stack &nbsp;
 
 - **Application_Name**: Python, FastAPI, Docker
 
@@ -62,7 +62,7 @@
 
 ---
 
-### 📈 GitHub Analytics &nbsp;
+### GitHub Analytics &nbsp;
 <p align="left">
   <!-- Your personal stats cards - these work fine -->
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=k3vwdd&show_icons=true&theme=dark&include_all_commits=true&custom_title=My%20GitHub%20Statistics&border_color=30363d&show_owner=true&line_height=24"/>
@@ -70,7 +70,7 @@
 
 ---
 
-### 📫 Connect & Collaborate &nbsp;
+### Connect & Collaborate &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-diaz-6013a0328)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k3vwdd)
