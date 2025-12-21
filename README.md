@@ -3,10 +3,6 @@
 
 ---
 
-<h2 align="center">
-  <a href="https://github.com/garotm/garotm/wiki">Professional Resume</a>
-</h2>
-
 ### Skills &nbsp;
 
 - **Languages:** &nbsp;
